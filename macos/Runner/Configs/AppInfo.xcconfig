@@ -8,7 +8,7 @@
 PRODUCT_NAME = mirchi
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.mirchi
+PRODUCT_BUNDLE_IDENTIFIER = com.aan.mirchi
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
